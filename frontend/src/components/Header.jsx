@@ -11,7 +11,7 @@ export default function Header() {
       <div className="flex h-14 items-center justify-between px-2 sm:px-3">
         {/* Left corner: logo */}
         <a
-          href="/"
+          href="/admin"
           className="text-[22px] font-extrabold tracking-tight text-slate-900"
         >
           EZSCAN
